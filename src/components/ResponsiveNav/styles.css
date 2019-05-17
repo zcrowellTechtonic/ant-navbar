@@ -1,0 +1,19 @@
+
+
+@media only screen and (max-width: 600px) {
+    #hide-on-mobile, .ant-popover-inner-content, .ant-popover-arrow, i.ant-menu-submenu-arrow {
+        display: none;
+        }
+  }
+
+  .ant-drawer-wrapper-body {
+      background-color: #000000;
+  }
+  .menu-container {
+    background-color: red;
+    height: 100px;
+}
+
+a {
+    color: white;
+}
